@@ -1,4 +1,0 @@
-/home/angui/OpenCV_Project/build/CMakeFiles/opencv_project.dir
-/home/angui/OpenCV_Project/build/CMakeFiles/armor_detector.dir
-/home/angui/OpenCV_Project/build/CMakeFiles/edit_cache.dir
-/home/angui/OpenCV_Project/build/CMakeFiles/rebuild_cache.dir
